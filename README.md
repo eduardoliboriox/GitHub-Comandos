@@ -20,7 +20,7 @@ git status
 ```bash
 git add .
 git add arquivo.ext
-git commit -m "mensagem"
+git commit -m "msg"
 git commit --amend        # Edita o último commit
 git log                   # Mostra histórico de commits
 ```
