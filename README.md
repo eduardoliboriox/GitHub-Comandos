@@ -94,7 +94,7 @@ git init                      # Inicia novo repositório do zero
 
 ---
 
-## 🔹 Sequencias 
+## 🔹 Sequências 
 ```bash
 git remote -v
 git remote set-url origin https://github.com/usuario/novo-repo.git
